@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a computer science engineer. I like to improve my problem solving skills. 
+I have developed projects in React, Node and Java. I am intereted in challenging projects that aim to solve real world problems
+
+
 <!--
 **ShriramMehta/ShriramMehta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
